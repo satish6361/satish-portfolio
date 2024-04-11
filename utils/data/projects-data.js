@@ -6,7 +6,7 @@ import travel from '/public/image/travel.jpg';
 export const projectsData = [
     {
         id: 1,
-        name: 'OptiNet: Eye Disease Classification system',
+        name: 'OptiNet',
         description: "Multi-label classification of eye disease using the eye fundus image. Implemented an ensemble model to enhance the predictive performance of the system. This ensemble consists of ResNet50, VGG-19, and EfficientNetB0, with the final predictions determined by averaging the weights of each model. The trained model was saved and integrated into a user-friendly web application using the MERN stack. Additionally, a FastAPI was implemented to facilitate image input for predictions, enhancing the accessibility and performance of the application.",
         tools: ['React', 'Node', 'Express', 'MongoDB', 'FastAPI', 'TensorFlow', 'Keras'],
         // role: 'Backend Developer',
@@ -36,7 +36,7 @@ export const projectsData = [
     },
     {
         id: 4,
-        name: 'Newsroom Management',
+        name: 'Social Media App',
         description: "A web-based Social Media Application.User interactions through friends, share posts, like posts. Secure user logins through JWT tokens and password encryption through bcrypt.",
         tools: ['React','Redux-ToolKit', 'Material UI', 'Tailwind CSS','Express','MongoDB', 'Node', 'JWT', "Multer"],
         code: '',
