@@ -17,7 +17,7 @@ export const projectsData = [
     {
         id: 2,
         name: 'MetaBlog',
-        description: 'I have designed and developed a full-stack web app for sharing and posting blogs. I created the UI using ReactJS, JavaScript, TailwindCSS, TinyMCE-Realtime code editor, React Hook-Form, React-icons and Redux. The app shows multiple multiple posts from different users. I developed the Backend Part Appwrite.',
+        description: 'I have designed and developed a full-stack web app for sharing and posting blogs. I created the UI using ReactJS, JavaScript, TailwindCSS, TinyMCE-Realtime code editor, React Hook-Form, React-icons and Redux. The app shows multiple posts from different users. I developed the Backend Part Appwrite.',
         tools: ['ReactJS', 'Tailwind CSS',"TinyMCE"," Appwrite"],
         // role: 'Full Stack Developer',
         code: '',
